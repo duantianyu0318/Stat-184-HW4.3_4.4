@@ -19,9 +19,10 @@ In HW 4.3, I perform the following actions:
 - Report generation in Quarto (.qmd -> PDF)
 
 ## Files List
+- Plan.md
+- README.md: Project description
 - hw 4.3.qmd: Source quarto file
 - hw_4.3.pdf: Output report
-- README.md: Project description
 
 ## Data Source
 Data used in this project comes from course-provided datasets.
