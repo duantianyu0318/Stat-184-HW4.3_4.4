@@ -5,7 +5,7 @@
 - Structure files within a well-organized GitHub repo
 - Implement version control using branching and pull requests
 
-## Requirements
+## Needs
 - R and RStudio
 - Quarto for generating reports
 - GitHub for version control
