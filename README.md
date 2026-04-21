@@ -17,6 +17,7 @@ In HW 4.3, I perform the following actions:
 - Wrangling and data cleaning in R
 - Visualization via ggplot2 library
 - Report generation in Quarto (.qmd -> PDF)
+- Added visualization section.
 
 ## Files List
 - Plan.md
