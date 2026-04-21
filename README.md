@@ -22,3 +22,10 @@ In HW 4.3, I perform the following actions:
 - hw 4.3.qmd: Source quarto file
 - hw_4.3.pdf: Output report
 - README.md: Project description
+
+## Data Source
+Data used in this project comes from course-provided datasets.
+
+## Contact
+Author: Tianyu Duan 
+Email: tpd5376@psu.edu
