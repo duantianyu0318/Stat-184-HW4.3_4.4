@@ -1,4 +1,5 @@
 # Project Plan
+This document include both the project plan and repository management plan.
 
 ## Goals
 - Finish STAT 184 HW 4.3 analysis
